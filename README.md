@@ -17,7 +17,7 @@ This Python project is designed to fulfill the requirements of the written assig
         - `__init__.py`
         - `models.py`: Defines SQLAlchemy models.
         - `operations.py`: Handles data loading and session creation.
-        -  'exceptions.py' : Custom Exception
+        - `exceptions.py` : Custom Exception
     - 📁 **processing**
         - `__init__.py`
         - `calculations.py`: Performs deviation calculations.
