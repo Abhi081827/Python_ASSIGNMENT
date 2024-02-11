@@ -13,7 +13,7 @@ This Python project is designed to fulfill the requirements of the written assig
 ### Folder Structure
 
 - 📁 **Project**
-    - **Data**
+    - 📁 **Data**
         - `train.csv`
         - `test.csv`
         - `ideal.csv`
