@@ -1,6 +1,6 @@
 # Project README
 
-## Project Title: Python Assingment
+## Project Title: Python Assignment
 
 ### Organization: IU.ORG
 
